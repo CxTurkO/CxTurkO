@@ -3,7 +3,7 @@
 
 
 
-## I'm a Student at Bilkent University!!
+## I'm a ROOKİE Student at Bilkent University!!
 
 - 🔭 One day or Day one 
 - 🌱 I’m currently learning everything 
