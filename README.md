@@ -1,13 +1,6 @@
-# Hi there, I'm Devran - [CxTurkO] 👋 
+# Hi there, I'm Devran
 
 
 
 
-## I'm a first-year student at Bilkent University !!
-
-- 🔭 One day or Day one 
-- 🌱 I’m currently learning everything 
-- 🥅 2024 Goals: Learn more about Java
-
-
--->
+## I'm a Second-year student at Bilkent University !!
