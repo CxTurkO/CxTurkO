@@ -3,4 +3,4 @@
 
 
 
-## I'm a Second-year student at Bilkent University !!
+## I'm a Second-year Computer-Science student at Bilkent University !!
